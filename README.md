@@ -1,8 +1,5 @@
 # Thiago Montini
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomontini-dr&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontini-dr&layout=compact)
-
 ## About
 Technology entrepreneur focused on building and scaling digital products with a strong emphasis on artificial intelligence. Leads Digital Republic, a software company that combines engineering execution with AI-driven approaches to accelerate product development and improve operational efficiency.
 
