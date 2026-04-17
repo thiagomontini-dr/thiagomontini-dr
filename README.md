@@ -1,16 +1,37 @@
-## Hi there 👋
+# Thiago Montini
 
-<!--
-**thiagomontini-dr/thiagomontini-dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Technology entrepreneur focused on building and scaling digital products with a strong emphasis on artificial intelligence. Leads Digital Republic, a software company that combines engineering execution with AI-driven approaches to accelerate product development and improve operational efficiency.
 
-Here are some ideas to get you started:
+## What I Do
+- Design and implement AI-powered solutions for business processes and product development  
+- Build and manage high-performing engineering teams and squads  
+- Structure systems architecture, from MVPs to scalable platforms  
+- Drive product strategy with a balance between technical depth and business impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Development of AI agents as active members of product teams  
+- Hybrid workflows combining human teams and autonomous systems  
+- Automation of software lifecycle: requirements, development, testing, and delivery  
+- Internal platforms to improve productivity and knowledge management  
+
+## Experience Highlights
+- Delivered projects for companies such as Grupo Soma, Ambev (Bees Bank), IKEA, and GP Brasil F1  
+- Built and scaled a software company with multidisciplinary teams  
+- Designed systems across web, mobile, and backend architectures  
+- Implemented AI solutions in real business environments, beyond prototypes  
+
+## Tech & Tools
+- **Languages & Frameworks:** JavaScript, Node.js, React  
+- **Backend & Infra:** Supabase, PostgreSQL, AWS  
+- **AI & Automation:** OpenAI APIs, LLM-based workflows, autonomous agents  
+- **Other:** System integrations, APIs, product architecture  
+
+## How I Work
+- Focus on execution and measurable outcomes  
+- Prefer simple, scalable architectures over unnecessary complexity  
+- Use AI as a core layer of the product, not as an add-on  
+- Combine product thinking with engineering discipline  
+
+## Contact
+- Website: https://digitalrepublic.com.br  
